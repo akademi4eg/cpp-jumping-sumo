@@ -1,2 +1,2 @@
-# cpp-jumping-sumo
-C++ wrapper for Jumping Sumo SDK
+# [WIP] cpp-jumping-sumo
+C++ wrapper for Jumping Sumo SDK.
